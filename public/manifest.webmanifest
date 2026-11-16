@@ -1,0 +1,10 @@
+{
+  "name": "Closet+",
+  "short_name": "Closet+",
+  "description": "Tu armario digital y estilista personal",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
